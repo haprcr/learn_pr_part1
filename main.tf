@@ -8,3 +8,4 @@ resource "google_bigquery_table" "business_function_projects_view" {
     use_legacy_sql = false
   }
 }
+
